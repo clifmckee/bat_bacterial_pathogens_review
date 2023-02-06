@@ -6,7 +6,7 @@ Review includes all studies of 11 zoonotic bacterial genera in bats published be
 
 Shape files for bat geographic ranges (and all other terrestrial mammals) are available from IUCN at https://www.iucnredlist.org/resources/spatial-data-download.
 
-The main data file, 'new_Data_pat_ORIGINAL_2022_updated0310_nocoord.csv', is available by request ((clifton.mckee@gmail.com)[mailto:clifton.mckee@gmail.com]), as well as other large data files, 'mammterr.RData' and 'MAMMALS_TERRESTRIAL_ONLY.shp'.
+The main data file, 'new_Data_pat_ORIGINAL_2022_updated0310_nocoord.csv', is available by request ([clifton.mckee@gmail.com](mailto:clifton.mckee@gmail.com)), as well as other large data files, 'mammterr.RData' and 'MAMMALS_TERRESTRIAL_ONLY.shp'.
 
 ![](./results/bat_sampling_summary_Bartonella.png)
 
